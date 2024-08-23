@@ -48,10 +48,10 @@ app.get('/', (_req, res) => {
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>文件夹链接</title>
+    <title>项目链接</title>
   </head>
   <body>
-    <h1>文件夹链接</h1>
+    <h1>项目链接</h1>
     <ul>
       ${links}
     </ul>
