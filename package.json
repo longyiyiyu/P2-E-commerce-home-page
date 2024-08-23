@@ -1,0 +1,17 @@
+{
+  "name": "p2-e-commerce-home-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts/dev.js",
+  "scripts": {
+    "start": "node scripts/dev.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chokidar": "^3.6.0",
+    "express": "^5.0.0-beta.2",
+    "open": "^8.4.2",
+    "ws": "^8.18.0"
+  }
+}
